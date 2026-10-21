@@ -1,0 +1,5 @@
+topic,top_words,likely_theme
+Topic 1,"model, software, data, user, trained",Technology
+Topic 2,"patient, doctor, hospital, heart, diet",Health
+Topic 3,"team, player, match, coach, fans",Sports
+Topic 4,"market, investors, company, stock, share",Finance

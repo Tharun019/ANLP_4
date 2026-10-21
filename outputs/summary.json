@@ -1,0 +1,25 @@
+{
+  "n_documents": 20,
+  "vocabulary_size": 71,
+  "n_topics": 4,
+  "perplexity": 60.989,
+  "em_iterations": 19,
+  "best_restart_seed": 47,
+  "approx_log_likelihood": -871.466,
+  "mean_umass": -0.1371,
+  "topics": {
+    "Topic 1": "model, software, data, user, trained",
+    "Topic 2": "patient, doctor, hospital, heart, diet",
+    "Topic 3": "team, player, match, coach, fans",
+    "Topic 4": "market, investors, company, stock, share"
+  },
+  "purity": 1.0,
+  "nmi": 1.0,
+  "ari": 1.0,
+  "topic_labels": {
+    "Topic 1": "Technology",
+    "Topic 2": "Health",
+    "Topic 3": "Sports",
+    "Topic 4": "Finance"
+  }
+}
